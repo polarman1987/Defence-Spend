@@ -11,7 +11,7 @@ DBS_NAME = 'heroku_2jp49f92'
 COLLECTION_NAME = 'Defence-Spend'
 
 
-@app.route("/index.html")
+@app.route("/")
 def index():
     """
     A Flask view to serve the main dashboard page.
