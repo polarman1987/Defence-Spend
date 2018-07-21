@@ -1,0 +1,682 @@
+[
+ {
+   "FIELD1": "country",
+   "FIELD2": "year",
+   "FIELD3": "spend"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1990",
+   "FIELD3": "306170"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1991",
+   "FIELD3": "280292"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1992",
+   "FIELD3": "305141"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1993",
+   "FIELD3": "297637"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1994",
+   "FIELD3": "288059"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1995",
+   "FIELD3": "278856"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1996",
+   "FIELD3": "271417"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1997",
+   "FIELD3": "276325"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1998",
+   "FIELD3": "274278"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "1999",
+   "FIELD3": "280969"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2000",
+   "FIELD3": "301697"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2001",
+   "FIELD3": "312743"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2002",
+   "FIELD3": "356720"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2003",
+   "FIELD3": "415223"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2004",
+   "FIELD3": "464676"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2005",
+   "FIELD3": "503353"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2006",
+   "FIELD3": "527660"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2007",
+   "FIELD3": "556961"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2008",
+   "FIELD3": "621131"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2009",
+   "FIELD3": "668567"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2010",
+   "FIELD3": "698180"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2011",
+   "FIELD3": "711338"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2012",
+   "FIELD3": "684780"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2013",
+   "FIELD3": "639704"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2014",
+   "FIELD3": "609914"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2015",
+   "FIELD3": "596010"
+ },
+ {
+   "FIELD1": "USA",
+   "FIELD2": "2016",
+   "FIELD3": "611186"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1990",
+   "FIELD3": "10085"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1991",
+   "FIELD3": "9954"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1992",
+   "FIELD3": "12420"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1993",
+   "FIELD3": "12577"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1994",
+   "FIELD3": "10051"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1995",
+   "FIELD3": "12606"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1996",
+   "FIELD3": "14563"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1997",
+   "FIELD3": "16105"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1998",
+   "FIELD3": "17528"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "1999",
+   "FIELD3": "21027"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2000",
+   "FIELD3": "22930"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2001",
+   "FIELD3": "27875"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2002",
+   "FIELD3": "32138"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2003",
+   "FIELD3": "35126"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2004",
+   "FIELD3": "40353"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2005",
+   "FIELD3": "45919"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2006",
+   "FIELD3": "55337"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2007",
+   "FIELD3": "68012"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2008",
+   "FIELD3": "86362"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2009",
+   "FIELD3": "105644"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2010",
+   "FIELD3": "115712"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2011",
+   "FIELD3": "137967"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2012",
+   "FIELD3": "157390"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2013",
+   "FIELD3": "179880"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2014",
+   "FIELD3": "200772"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2015",
+   "FIELD3": "214093"
+ },
+ {
+   "FIELD1": "China",
+   "FIELD2": "2016",
+   "FIELD3": "215176"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1990",
+   "FIELD3": "0"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1991",
+   "FIELD3": "0"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1992",
+   "FIELD3": "0"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1993",
+   "FIELD3": "7767"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1994",
+   "FIELD3": "13548"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1995",
+   "FIELD3": "12742"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1996",
+   "FIELD3": "15826"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1997",
+   "FIELD3": "17577"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1998",
+   "FIELD3": "7956"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "1999",
+   "FIELD3": "6469"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2000",
+   "FIELD3": "9228"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2001",
+   "FIELD3": "11683"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2002",
+   "FIELD3": "13944"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2003",
+   "FIELD3": "16974"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2004",
+   "FIELD3": "20955"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2005",
+   "FIELD3": "27337"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2006",
+   "FIELD3": "34518"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2007",
+   "FIELD3": "43535"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2008",
+   "FIELD3": "56184"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2009",
+   "FIELD3": "51532"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2010",
+   "FIELD3": "58720"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2011",
+   "FIELD3": "70238"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2012",
+   "FIELD3": "81469"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2013",
+   "FIELD3": "88353"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2014",
+   "FIELD3": "84697"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2015",
+   "FIELD3": "66419"
+ },
+ {
+   "FIELD1": "Russian Federation",
+   "FIELD2": "2016",
+   "FIELD3": "69245"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1990",
+   "FIELD3": "42590"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1991",
+   "FIELD3": "42703"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1992",
+   "FIELD3": "45123"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1993",
+   "FIELD3": "42591"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1994",
+   "FIELD3": "44393"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1995",
+   "FIELD3": "47768"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1996",
+   "FIELD3": "46403"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1997",
+   "FIELD3": "41308"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1998",
+   "FIELD3": "40041"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "1999",
+   "FIELD3": "38897"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2000",
+   "FIELD3": "33814"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2001",
+   "FIELD3": "33277"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2002",
+   "FIELD3": "36404"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2003",
+   "FIELD3": "45917"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2004",
+   "FIELD3": "53007"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2005",
+   "FIELD3": "52909"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2006",
+   "FIELD3": "54516"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2007",
+   "FIELD3": "60595"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2008",
+   "FIELD3": "66009"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2009",
+   "FIELD3": "66884"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2010",
+   "FIELD3": "61782"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2011",
+   "FIELD3": "64601"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2012",
+   "FIELD3": "60035"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2013",
+   "FIELD3": "62417"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2014",
+   "FIELD3": "63614"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2015",
+   "FIELD3": "55342"
+ },
+ {
+   "FIELD1": "France",
+   "FIELD2": "2016",
+   "FIELD3": "55745"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1990",
+   "FIELD3": "38944"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1991",
+   "FIELD3": "42074"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1992",
+   "FIELD3": "40775"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1993",
+   "FIELD3": "34086"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1994",
+   "FIELD3": "34494"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1995",
+   "FIELD3": "34248"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1996",
+   "FIELD3": "34491"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1997",
+   "FIELD3": "35675"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1998",
+   "FIELD3": "36866"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "1999",
+   "FIELD3": "36453"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2000",
+   "FIELD3": "35255"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2001",
+   "FIELD3": "35332"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2002",
+   "FIELD3": "39660"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2003",
+   "FIELD3": "46943"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2004",
+   "FIELD3": "53970"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2005",
+   "FIELD3": "55152"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2006",
+   "FIELD3": "57483"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2007",
+   "FIELD3": "65986"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2008",
+   "FIELD3": "65619"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2009",
+   "FIELD3": "57915"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2010",
+   "FIELD3": "58083"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2011",
+   "FIELD3": "60270"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2012",
+   "FIELD3": "58496"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2013",
+   "FIELD3": "56862"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2014",
+   "FIELD3": "59183"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2015",
+   "FIELD3": "53862"
+ },
+ {
+   "FIELD1": "UK",
+   "FIELD2": "2016",
+   "FIELD3": "48253"
+ }
+]
