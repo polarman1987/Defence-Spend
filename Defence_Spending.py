@@ -5,10 +5,10 @@ import json
 
 app = Flask(__name__)
 
-MONGODB_HOST = 'localhost'
-MONGODB_PORT = 27017
-DBS_NAME = 'spending'
-COLLECTION_NAME = 'project'
+MONGODB_HOST = 'ds247121.mlab.com'
+MONGODB_PORT = 47121
+DBS_NAME = 'heroku_2jp49f92'
+COLLECTION_NAME = 'Defence-Spend'
 
 
 @app.route("/index.html")
