@@ -5,10 +5,13 @@ import json
 
 app = Flask(__name__)
 
-MONGODB_HOST = 'ds247121.mlab.com'
-MONGODB_PORT = 47121
-DBS_NAME = 'heroku_2jp49f92'
-COLLECTION_NAME = 'Defence-Spend'
+MONGO_URI = os.getenv('MONGODB_URI', 'mongodb://localhost:27017')
+DBS_NAME = os.getenv('MONGO_DB_NAME', 'Defence-Spend')
+
+# MONGODB_HOST = 'ds247121.mlab.com'
+# MONGODB_PORT = 47121
+# DBS_NAME = 'heroku_2jp49f92'
+# COLLECTION_NAME = 'Defence-Spend'
 
 
 @app.route("/")
@@ -52,7 +55,7 @@ def spending_data():
 
     # Open a connection to MongoDB using a with statement such that the
     # connection will be closed as soon as we exit the with statement
-    with MongoClient(MONGODB_HOST, MONGODB_PORT) as conn:
+    with MongoClient(MONGO_URI) as conn:
         # Define which collection we wish to access
         collection = conn[DBS_NAME][COLLECTION_NAME]
         # Retrieve a result set only with the fields defined in FIELDS
