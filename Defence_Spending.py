@@ -12,7 +12,7 @@ DBS_NAME = os.getenv('MONGO_DB_NAME', 'Defence-Spend')
 # MONGODB_HOST = 'ds247121.mlab.com'
 # MONGODB_PORT = 47121
 # DBS_NAME = 'heroku_2jp49f92'
-# COLLECTION_NAME = 'Defence-Spend'
+COLLECTION_NAME = 'Defence-Spend'
 
 
 @app.route("/")
